@@ -9,6 +9,6 @@ _pip install geomeshconv_
 <br>
 or visit [https://pypi.org/project/geomeshconv/]
 <br><br>
-The following fig is showing one of the water tight meshes created automatically after generating the gelogical model. <br>
+The following fig is showing one of the water-tight meshes created automatically after generating the gelogical model. <br>
 
 <img width="453" alt="Figure_1" src="https://user-images.githubusercontent.com/62764899/159875216-67d5f557-452f-4721-9e17-1fd123e085a1.png">
