@@ -1,0 +1,5 @@
+X,Y,Z,azimuth,dip,polarity,formation
+50,25,85,90,0,1,unit_1
+50,25,65,90,0,1,unit_2
+50,25,22.5,90,0,1,unit_3
+50,25,10,90,0,1,unit_4
