@@ -5,9 +5,10 @@ creating meshes that match the geometry of your geological model. <br>
 The superiority is that this precedure can be achieved without manual treatement of the mesh. At the end, the automated coversion allows for making
 water-tight meshes matching the primary geometry.
 To install _GeoMeshPy_, just try <br>
-_pip install geomeshconv_
-<br>
-or visit [https://pypi.org/project/geomeshconv/]
+
+```pip install geomeshconv```
+<br><br>
+or [visit the PyPi page](https://pypi.org/project/geomeshconv/).
 <br><br>
 The following fig is showing one of the meshes created automatically after generating the gelogical model. <br>
 
@@ -22,4 +23,4 @@ It is highly time demanding to genertae mesh for each single scenraion but _GeoM
 ![rotate_elevation_angle_3d_surf](https://user-images.githubusercontent.com/62764899/160632945-b4cdca87-4147-4d4c-a47b-cf3f8a0f7791.gif)
 
 <br><br>
-Please see available examples to get more familiar with this tool.
+Please see available [examples](https://github.com/Ali1990dashti/GeoMeshPy/tree/main/Examples) to get more familiar with this tool.
