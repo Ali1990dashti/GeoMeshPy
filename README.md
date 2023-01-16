@@ -24,3 +24,8 @@ It is highly time demanding to genertae mesh for each single scenraion but _GeoM
 
 <br><br>
 Please see available [examples](https://github.com/Ali1990dashti/GeoMeshPy/tree/main/Examples) to get more familiar with this tool.
+
+## Publications using GeoMeshPy
+This repository is part of the following paper. Please cite the following paper if you would like to cite this repository and find its contents useful: <br>
+
+Dashti, A., Korzani, M. G., Geuzaine, C., Egert, R., & Kohl, T. (2023) . Impact of structural uncertainty on tracer test design in faulted geothermal reservoirs. https://doi.org/10.1016/j.geothermics.2022.102607.
